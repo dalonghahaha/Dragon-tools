@@ -1,0 +1,21 @@
+{
+    "name": "Dragon-tools",
+    "description": "Dragon Framework build tools",
+    "keywords": [
+        "Dragon",
+        "tools"
+    ],
+    "version": "1.0.0",
+    "author": "Deng Jia Long <dalonghahaha@163.com> (http://dalong.me)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dalonghahaha/Dragon-tools.git"
+    },
+    "dependencies": {
+        "commander": "latest"
+    },
+    "engines": {
+        "node": ">=0.1.0"
+    }
+}
